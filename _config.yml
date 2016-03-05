@@ -1,0 +1,28 @@
+name: KGphotography
+favicon: null
+layout_spectrum: 0.7580685243010521
+typography_spectrum: 0.12776500289328396
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.8034898519981652
+  lightness: 0.0632183556444943
+  saturation: 0.3912600639741868
+  rhythmicContrast: 0.34003119822591543
+purpose: []
